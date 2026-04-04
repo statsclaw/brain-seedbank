@@ -60,6 +60,21 @@ Accepted contributions earn a virtual badge on [statsclaw/brain CONTRIBUTORS.md]
 3. Transfer approved entries to `statsclaw/brain` (copy files, commit, push)
 4. Update `statsclaw/brain/CONTRIBUTORS.md` with badges
 
+## Citation
+
+If you use StatsClaw or benefit from the shared brain in your research, please cite:
+
+> Qin, Tianzhu and Yiqing Xu. 2025. "[StatsClaw: An AI-Collaboration Workflow for Statistical Software Development](https://bit.ly/statsclaw)."
+
+```bibtex
+@article{qinxu2025statsclaw,
+  title={StatsClaw: An AI-Collaboration Workflow for Statistical Software Development},
+  author={Qin, Tianzhu and Xu, Yiqing},
+  year={2025},
+  url={https://bit.ly/statsclaw}
+}
+```
+
 ## License
 
-Contributions are shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Contributions are shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The StatsClaw framework itself is released under the [MIT License](https://github.com/statsclaw/statsclaw/blob/main/LICENSE).
