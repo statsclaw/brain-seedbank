@@ -64,11 +64,11 @@ Accepted contributions earn a virtual badge on [statsclaw/brain CONTRIBUTORS.md]
 
 If you use StatsClaw or benefit from the shared brain in your research, please cite:
 
-> Qin, Tianzhu and Yiqing Xu. 2026. "[StatsClaw: An AI-Collaboration Workflow for Statistical Software Development](https://bit.ly/statsclaw)."
+> Qin, Tianzhu and Yiqing Xu. 2026. "[StatsClaw: An AI-Collaborative Workflow for Statistical Software Development](https://bit.ly/statsclaw)."
 
 ```bibtex
 @misc{qinxu2026statsclaw,
-  title={StatsClaw: An AI-Collaboration Workflow for Statistical Software Development},
+  title={StatsClaw: An AI-Collaborative Workflow for Statistical Software Development},
   author={Qin, Tianzhu and Xu, Yiqing},
   year={2026},
   howpublished = {Mimeo, Stanford University},
